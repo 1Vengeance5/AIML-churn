@@ -1,4 +1,4 @@
-# AIML-churn and AI campus assistance
+# AIML-churn(level 1 and 2) and AI campus assistance(level 1)
 
 In the AI campus assistance, we need to download some dependencies as follows in the vs code terminal or bash directly
 
